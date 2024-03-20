@@ -1,5 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-Secret.java
-secret.java
+Secret2.java
+secret2.java
+src/main/java/org/example/Secret2.java
+Secret3.java
+secret3.java
+src/main/java/org/example/Secret3.java
